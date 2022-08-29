@@ -1,1 +1,2 @@
 Olá, meu nome é Rafael. Tenho 21 anos
+Estou fazendo este primeiro repositório para começar a aprender a usar o Git e GitHub juntos.
